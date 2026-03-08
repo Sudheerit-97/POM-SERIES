@@ -28,7 +28,7 @@
     
     <test name="Login Page firefox Test">
 		<parameter name="browser" value="firefox"></parameter>
-        <classes>
+        <classes> 
 			<class name="com.qa.opencart.tests.LoginpageTest" />
         </classes>
     </test>
